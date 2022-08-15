@@ -1,4 +1,8 @@
-### Connect with me : 
+### Connect with me :\
+ I'm Christophe living in France, frontend developer, 
+I love mobile IOS development and self-taught on Swift/SwiftUI.
+I love to learn languages and frameworks like JS and React, Swift.
+
 
 Languages and Tools:\
 [<img algin="left" alt="react" width="25px" src="./img/vscode.svg" style="padding-right: 11px" />](./img/vscode.svg)
