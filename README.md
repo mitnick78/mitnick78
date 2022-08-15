@@ -1,7 +1,7 @@
 ### Connect with me : 
 
 Languages and Tools:
-![<img algin="left" alt="react" witdh="25px" src="./img/reactjs.svg" style="padding-right: 11px" />]
+[<img algin="left" alt="react" width="25px" src="./img/reactjs.svg" style="padding-right: 11px" />](./img/reactjs.svg)
 
 <!--
 **mitnick78/mitnick78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
