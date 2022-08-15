@@ -1,6 +1,6 @@
 ### Connect with me : 
 
-Languages and Tools:
+Languages and Tools:\
 [<img algin="left" alt="react" width="25px" src="./img/reactjs.svg" style="padding-right: 11px" />](./img/reactjs.svg)
 
 <!--
