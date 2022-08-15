@@ -7,7 +7,7 @@ Languages and Tools:\
 [<img algin="left" alt="react" width="25px" src="./img/css.svg" style="padding-right: 11px" />](./img/css.svg)
 [<img algin="left" alt="react" width="25px" src="./img/js.svg" style="padding-right: 11px" />](./img/js.svg)
 [<img algin="left" alt="react" width="25px" src="./img/node.svg" style="padding-right: 11px" />](./img/node.svg)
-[<img algin="left" alt="react" width="25px" src="./img/swift.svg" style="padding-right: 11px" />](./img/swift.svg)
+[<img algin="left" alt="react" width="25px" src="./img/swift.jpg" style="padding-right: 11px" />](./img/swift.jpg)
 
 <!--
 **mitnick78/mitnick78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
